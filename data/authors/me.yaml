@@ -8,7 +8,8 @@ organizations:
   - name: University of Sheffield
     url: https://www.sheffield.ac.uk/management/
 
-bio: My research investigates sustainable supply chain management, the circular economy, and the operational impact of blockchain technology.
+bio: Jason X. Wang is a Lecturer (Assistant Professor) of Sustainable Supply Chain Management at Sheffield University Management School. Previously, he worked at the University of Huddersfield as MBA programme leader and Senior Lecturer of Operations and Supply Chain Management. Focusing on sustainable/circular supply chain management applied with carbon neutrality and blockchain, Jason's work has been published in leading international journals, including the International Journal of Operations and Production Management, Transportation Research Part E: Logistics and Transportation Review, and International Journal of Production Economics. Jason is the Editorial Review Board member of Journal of Supply Chain Management and IEEE Transactions on Engineering Management, Guest Editor of Transportation Research Part E: Logistics and Transportation Review, and Senior Editor (Operations Research, Information & Technology) in Cogent Business & Management. His work attracted attention from the industrial community, providing consultation to the vehicle recovery service supply chain in New Zealand and the motorsport industry in the UK.
+
 
 interests:
   - Sustainable Supply Chain Management
@@ -26,26 +27,29 @@ education:
     - course: BSc in International Economics & Business
       institution: University of Groningen, The Netherlands
 
-social:
+profiles:
   - icon: envelope
-    icon_pack: fas
+    pack: fas
     link: 'mailto:jason.x.wang@sheffield.ac.uk'
-  - icon: google-scholar
-    icon_pack: ai
+    label: Email
+  - icon: graduation-cap
+    pack: fas
     link: https://scholar.google.co.nz/citations?user=DLIZfaUAAAAJ&hl=en
-  - icon: orcid
-    icon_pack: ai
+    label: Google Scholar
+  - icon: brands/orcid
     link: https://orcid.org/0000-0001-6807-5496
-  - icon: publons
-    icon_pack: ai
+    label: ORCID
+  - icon: book-open
+    pack: fas
     link: https://www.webofscience.com/wos/author/record/AAX-7454-2020
+    label: Web of Science
 
 # The long-form biography text goes here now:
 about: |
-  Jason is a Lecturer of Sustainable Supply Chain Management at Sheffield University Management School. Previously, he worked at University of Huddersfield as MBA programme leader and Senior Lecturer of Operations and Supply Chain Management.
+  Jason X. Wang is a Lecturer (Assistant Professor) of Sustainable Supply Chain Management at Sheffield University Management School. Previously, he worked at University of Huddersfield as MBA programme leader and Senior Lecturer of Operations and Supply Chain Management.
   
   Focusing on sustainable/circular supply chain management applied with carbon neutrality and blockchain, Jason's work has been published in leading international journals, including the International Journal of Operations and Production Management, Transportation Research Part E: Logistics and Transportation Review, and International Journal of Production Economics.
   
   Jason is the Editorial Review Board member of Journal of Supply Chain Management and IEEE Transactions on Engineering Management, Guest Editor of Transportation Research Part E: Logistics and Transportation Review, and Senior Editor (Operations Research, Information & Technology) in Cogent Business & Management.
   
-  His work attracted attention from the industrial community, providing consultation to vehicle recovery service supply chain in New Zealand and the motorsport industry in UK.
+  His work attracted attention from the industrial community, providing consultation to the vehicle recovery service supply chain in New Zealand and the motorsport industry in the UK.

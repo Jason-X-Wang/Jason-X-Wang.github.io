@@ -1,15 +1,39 @@
-title: Jason X. Wang
-first_name: Jason X.
-last_name: Wang
-superuser: true
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Dr. Jason X. Wang
+  given: Jason X.
+  family: Wang
+postnominals:
+  - PhD
+status:
+  icon: "🎓"
 role: Lecturer in Sustainable Supply Chain Management
 
-organizations:
+bio: |
+  Jason is a Lecturer of Sustainable Supply Chain Management at Sheffield University Management School. Previously, he worked at University of Huddersfield as MBA programme leader and Senior Lecturer of Operations and Supply Chain Management.
+  
+  Focusing on sustainable/circular supply chain management applied with carbon neutrality and blockchain, Jason's work has been published in leading international journals, including the International Journal of Operations and Production Management, Transportation Research Part E: Logistics and Transportation Review, and International Journal of Production Economics.
+  
+  Jason is the Editorial Review Board member of Journal of Supply Chain Management and IEEE Transactions on Engineering Management, Guest Editor of Transportation Research Part E: Logistics and Transportation Review, and Senior Editor (Operations Research, Information & Technology) in Cogent Business & Management.
+  
+  His work attracted attention from the industrial community, providing consultation to vehicle recovery service supply chain in New Zealand and the motorsport industry in UK.
+
+affiliations:
   - name: University of Sheffield
     url: https://www.sheffield.ac.uk/management/
 
-bio: Jason X. Wang is a Lecturer (Assistant Professor) of Sustainable Supply Chain Management at Sheffield University Management School. Previously, he worked at the University of Huddersfield as MBA programme leader and Senior Lecturer of Operations and Supply Chain Management. Focusing on sustainable/circular supply chain management applied with carbon neutrality and blockchain, Jason's work has been published in leading international journals, including the International Journal of Operations and Production Management, Transportation Research Part E: Logistics and Transportation Review, and International Journal of Production Economics. Jason is the Editorial Review Board member of Journal of Supply Chain Management and IEEE Transactions on Engineering Management, Guest Editor of Transportation Research Part E: Logistics and Transportation Review, and Senior Editor (Operations Research, Information & Technology) in Cogent Business & Management. His work attracted attention from the industrial community, providing consultation to the vehicle recovery service supply chain in New Zealand and the motorsport industry in the UK.
-
+links:
+  - icon: at-symbol
+    url: mailto:jason.x.wang@sheffield.ac.uk
+    label: E-mail Me
+  - icon: academicons/google-scholar
+    url: https://scholar.google.co.nz/citations?user=DLIZfaUAAAAJ&hl=en
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0001-6807-5496
+  - icon: academicons/publons
+    url: https://www.webofscience.com/wos/author/record/AAX-7454-2020
 
 interests:
   - Sustainable Supply Chain Management
@@ -19,37 +43,33 @@ interests:
   - Prefabricated Construction
 
 education:
-  courses:
-    - course: Ph.D. in Operations & Supply Chain Management
-      institution: University of Otago, New Zealand
-    - course: MSc in Operations & Supply Chain Management
-      institution: University of Groningen, The Netherlands
-    - course: BSc in International Economics & Business
-      institution: University of Groningen, The Netherlands
+  - degree: Ph.D. in Operations & Supply Chain Management
+    institution: University of Otago, New Zealand
+  - degree: MSc in Operations & Supply Chain Management
+    institution: University of Groningen, The Netherlands
+  - degree: BSc in International Economics & Business
+    institution: University of Groningen, The Netherlands
 
-profiles:
-  - icon: envelope
-    pack: fas
-    link: 'mailto:jason.x.wang@sheffield.ac.uk'
-    label: Email
-  - icon: graduation-cap
-    pack: fas
-    link: https://scholar.google.co.nz/citations?user=DLIZfaUAAAAJ&hl=en
-    label: Google Scholar
-  - icon: brands/orcid
-    link: https://orcid.org/0000-0001-6807-5496
-    label: ORCID
-  - icon: book-open
-    pack: fas
-    link: https://www.webofscience.com/wos/author/record/AAX-7454-2020
-    label: Web of Science
-
-# The long-form biography text goes here now:
-about: |
-  Jason X. Wang is a Lecturer (Assistant Professor) of Sustainable Supply Chain Management at Sheffield University Management School. Previously, he worked at University of Huddersfield as MBA programme leader and Senior Lecturer of Operations and Supply Chain Management.
-  
-  Focusing on sustainable/circular supply chain management applied with carbon neutrality and blockchain, Jason's work has been published in leading international journals, including the International Journal of Operations and Production Management, Transportation Research Part E: Logistics and Transportation Review, and International Journal of Production Economics.
-  
-  Jason is the Editorial Review Board member of Journal of Supply Chain Management and IEEE Transactions on Engineering Management, Guest Editor of Transportation Research Part E: Logistics and Transportation Review, and Senior Editor (Operations Research, Information & Technology) in Cogent Business & Management.
-  
-  His work attracted attention from the industrial community, providing consultation to the vehicle recovery service supply chain in New Zealand and the motorsport industry in the UK.
+experience:
+  - role: Lecturer in Sustainable Supply Chain Management
+    org: Sheffield Management School, University of Sheffield
+    start: 2024-01-01
+    summary: |
+      * Module Leader: MBA Operations Management, MSc Advanced Analytics
+      * Deputy Chair, N8 Operations and Supply Chain Management Research Seminar Series
+      * MBA Selection Panelist and Academic Representative
+  - role: MBA Program Leader (MBA/SLMDA) & Senior Lecturer
+    org: Huddersfield Business School, University of Huddersfield
+    start: 2021-01-01
+    end: 2024-01-01
+    summary: |
+      * Directed the MBA and Senior Leader Master’s Degree Apprenticeship programs.
+      * PhD Coordinator for the Department of Accounting, Finance, Logistics and Economics.
+      * Module Leader for MSc Purchasing and Supply Chain Management.
+  - role: Lecturer in Operations and Supply Chain Management
+    org: Huddersfield Business School, University of Huddersfield
+    start: 2019-01-01
+    end: 2021-01-01
+    summary: |
+      * Module Leader for MSc Operations Management.
+      * University Academic Integrity Officer.

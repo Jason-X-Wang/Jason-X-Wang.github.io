@@ -34,6 +34,9 @@ links:
     url: https://orcid.org/0000-0001-6807-5496
   - icon: academicons/publons
     url: https://www.webofscience.com/wos/author/record/AAX-7454-2020
+  - icon: link
+    url: https://sheffield.ac.uk/management/people/academic-staff/omds/jason-x-wang
+    label: Staff Profile
 
 interests:
   - Sustainable Supply Chain Management

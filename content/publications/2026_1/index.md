@@ -25,5 +25,3 @@ links:
     url: "https://doi.org/10.1080/09537287.2026.2620478"
 ---
 
-**Supplementary Notes:**
-[You can add extra context, key takeaways, or media for this paper here, or just leave this blank.]

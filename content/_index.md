@@ -37,7 +37,7 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-        
+
   - block: markdown
     content:
       title: '📚 My Research & Background'
@@ -51,7 +51,7 @@ sections:
         Jason also works on manufacturing and sustainability innovation in the construction sector, such as prefabricated construction, to develop sector-specific sustainability strategies.
     design:
       columns: '1'
-      
+
   - block: collection
     id: papers
     content:
@@ -63,7 +63,7 @@ sections:
       count: 0
     design:
       view: citation
-      
+
   - block: collection
     id: talks
     content:
@@ -73,7 +73,7 @@ sections:
           - events
     design:
       view: card
-      
+
   - block: collection
     id: news
     content:

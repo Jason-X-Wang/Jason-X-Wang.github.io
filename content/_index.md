@@ -43,13 +43,13 @@ sections:
       title: '📚 My Research & Background'
       subtitle: ''
       text: |-
-        Jason is a Lecturer of Sustainable Supply Chain Management at Sheffield University Management School. Previously, he worked at University of Huddersfield as MBA programme leader and Senior Lecturer of Operations and Supply Chain Management.
-        
-        Focusing on sustainable/circular supply chain management applied with carbon neutrality and blockchain, Jason's work has been published in leading international journals, including the International Journal of Operations and Production Management, Transportation Research Part E: Logistics and Transportation Review, and International Journal of Production Economics.
-        
-        Jason is the Editorial Review Board member of Journal of Supply Chain Management and IEEE Transactions on Engineering Management, Guest Editor of Transportation Research Part E: Logistics and Transportation Review, and Senior Editor (Operations Research, Information & Technology) in Cogent Business & Management.
-        
-        His work attracted attention from the industrial community, providing consultation to vehicle recovery service supply chain in New Zealand and the motorsport industry in UK.
+       Jason’s core research focuses on two broad themes:
+
+Sustainable/circular supply chain management, with a particular focus on customer-driven supply chain sustainability practices and their impacts on supplying firms. This includes using carbon neutrality practices, circular product design, business model innovation, and supply chain redesign to improve economic and environmental benefits in sustainable development.
+
+The application of blockchain technology in supply chain management, exploring its contributions to supply chain transparency, visibility, and traceability, and thus the development of supply chain resilience and robustness.
+
+Jason also works on manufacturing and sustainability innovation in the construction sector, such as prefabricated construction, to develop sector-specific sustainability strategies.
     design:
       columns: '1'
       

@@ -46,25 +46,48 @@ interests:
   - Prefabricated Construction
 
 experience:
-  - role: Lecturer in Sustainable Supply Chain Management
+  # --- SECTION 1: PROFESSIONAL APPOINTMENTS ---
+  - role: Lecturer (Assistant Professor) in Sustainable Supply Chain Management
     org: Sheffield Management School, University of Sheffield
-    start: 2024-01-01
+    start: 2024-07-01
     summary: |
-      * Module Leader: MBA Operations Management, MSc Advanced Analytics
-      * Deputy Chair, N8 Operations and Supply Chain Management Research Seminar Series
-      * MBA Selection Panelist and Academic Representative
+      *Current Academic Appointment*
   - role: MBA Program Leader (MBA/SLMDA) & Senior Lecturer
     org: Huddersfield Business School, University of Huddersfield
-    start: 2021-01-01
-    end: 2024-01-01
-    summary: |
-      * Directed the MBA and Senior Leader Master’s Degree Apprenticeship programs.
-      * PhD Coordinator for the Department of Accounting, Finance, Logistics and Economics.
-      * Module Leader for MSc Purchasing and Supply Chain Management.
+    start: 2021-03-01
+    end: 2024-07-01
   - role: Lecturer in Operations and Supply Chain Management
     org: Huddersfield Business School, University of Huddersfield
     start: 2019-01-01
-    end: 2021-01-01
+    end: 2021-03-01
+
+  # --- SECTION 2: UNIVERSITY SERVICES & LEADERSHIP ---
+  - role: University Services and Leadership
+    org: Various Institutions
     summary: |
-      * Module Leader for MSc Operations Management.
-      * University Academic Integrity Officer.
+      **University of Sheffield**
+      * **Deputy Chair**, N8 Operations and Supply Chain Management Research Seminar Series (2024–present).
+      * **MBA Selection Panelist**, Responsible for recruitment activities, candidate interviews, and offers (2025–present).
+      * **Academic Representative** in MBA overseas recruitment (Tokyo, Japan & Taipei, Taiwan).
+
+      **University of Huddersfield**
+      * **University Academic Integrity Officer** (2019–2024).
+      * **PhD Coordinator**, Dept. of Accounting, Finance, Logistics and Economics (2020–2024).
+      * **Committee Member**, Huddersfield Business School Accreditation and Validation Panel (SAVP).
+      * **Coordinator**, BA (Hons) Business with Supply Chain Management Professional (CMDA).
+      * **Track Chair**, Huddersfield Business School Research Conference 2020 (Emerging Economies and Globalization).
+
+  # --- SECTION 3: TEACHING RESPONSIBILITIES ---
+  - role: Teaching and Module Leadership
+    org: Various Institutions
+    summary: |
+      **University of Sheffield**
+      * **Module Leader:** MGT6150 Operations Management (MBA).
+      * **Module Leader:** Advanced Analytics: Econometrics and Forecasting (MSc Business Analytics) — *New module development*.
+      * **Lecturer:** MGT6085 Global Supply Chain Leadership; MGT6155 Supply Networks Management.
+
+      **University of Huddersfield**
+      * **Module Leader:** MSc Purchasing and Supply Chain Management.
+      * **Module Leader:** MSc Operations Management.
+      * **Module Leader:** MBA Business Research Project; Work-based Project.
+      * **Lecturer:** Logistics and Supply Chain Management (MBA Aviation Management).

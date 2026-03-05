@@ -6,16 +6,14 @@ date: 2022-10-24
 type: landing
 
 design:
-  # Default section spacing - REDUCED from 6rem to 3rem
-  spacing: '1rem'
+  # Eliminate the global default spacing entirely
+  spacing: '0'
 
 sections:
   - block: resume-biography-3
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
       text: ''
-      # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
         url: uploads/resume.pdf
@@ -24,23 +22,17 @@ sections:
         education: ''
         Research interests: ''
     design:
-      # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
         gradient_mesh:
           enable: true
-
-      # Name heading sizing to accommodate long or short names
       name:
-        size: md # Options: xs, sm, md, lg (default), xl
-
-      # Avatar customization
+        size: md
       avatar:
-        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: circle # Options: circle (default), square, rounded
-      
-      # Added to specifically reduce the space at the very top of the page [Top, Right, Bottom, Left]
+        size: medium
+        shape: circle
+      # Force minimal padding at the very top block
       spacing:
-        padding: ['2rem', 0, '2rem', 0]
+        padding: [0, 0, '1rem', 0]
 
   - block: markdown
     content:
@@ -55,6 +47,8 @@ sections:
         Jason also works on manufacturing and sustainability innovation in the construction sector, such as prefabricated construction, to develop sector-specific sustainability strategies.
     design:
       columns: '1'
+      spacing:
+        padding: ['1rem', 0, '1rem', 0]
 
   - block: collection
     id: papers
@@ -63,12 +57,12 @@ sections:
       filters:
         folders:
           - publications
-        # Ensures working papers don't show up in the main published list
         exclude_publication_type: 'manuscript'
-      # Setting count to 0 displays all papers without a cutoff limit
       count: 0
     design:
       view: citation
+      spacing:
+        padding: ['1rem', 0, '1rem', 0]
 
   - block: collection
     id: working-papers
@@ -77,11 +71,12 @@ sections:
       filters:
         folders:
           - publications
-        # Grabs only the papers tagged as manuscripts
         publication_type: 'manuscript'
       count: 0
     design:
       view: citation
+      spacing:
+        padding: ['1rem', 0, '1rem', 0]
 
   - block: collection
     id: talks
@@ -92,6 +87,8 @@ sections:
           - events
     design:
       view: card
+      spacing:
+        padding: ['1rem', 0, '1rem', 0]
 
   - block: collection
     id: news
@@ -114,5 +111,5 @@ sections:
     design:
       view: card
       spacing:
-        padding: [0, 0, 0, 0]
+        padding: ['1rem', 0, 0, 0]
 ---

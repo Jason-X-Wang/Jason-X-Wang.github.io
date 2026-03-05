@@ -1,0 +1,19 @@
+/* 1. Pull the biography section up closer to the navigation bar */
+.wg-resume-biography-3 {
+    padding-top: 1rem !important;
+    margin-top: -2rem !important;
+}
+
+/* 2. Reduce the large gaps between all subsequent sections (Publications, Working Papers, etc.) */
+section {
+    padding-top: 1.5rem !important;
+    padding-bottom: 1.5rem !important;
+}
+
+/* 3. Override the default Bootstrap padding utility classes used by the theme */
+.pt-5, .py-5 {
+    padding-top: 1.5rem !important;
+}
+.pb-5, .py-5 {
+    padding-bottom: 1.5rem !important;
+}

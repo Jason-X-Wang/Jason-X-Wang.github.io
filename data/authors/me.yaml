@@ -47,22 +47,25 @@ interests:
 
 experience:
   # --- SECTION 1: PROFESSIONAL APPOINTMENTS ---
-  - role: Lecturer (Assistant Professor) in Sustainable Supply Chain Management
+  - role: Lecturer in Sustainable Supply Chain Management
     org: Sheffield Management School, University of Sheffield
     start: 2024-07-01
-    summary: |
-      *Current Academic Appointment*
-  - role: MBA Program Leader (MBA/SLMDA) & Senior Lecturer
-    org: Huddersfield Business School, University of Huddersfield
+  - role: MBA Program Leader (MBA/SLMDA)
+    org: Huddersfield Business School, University of Huddersfield, United Kingdom
+    start: 2021-03-01
+    end: 2024-07-01
+  - role: Senior Lecturer in Operations and Supply Chain Management
+    org: University of Huddersfield, United Kingdom
     start: 2021-03-01
     end: 2024-07-01
   - role: Lecturer in Operations and Supply Chain Management
-    org: Huddersfield Business School, University of Huddersfield
+    org: University of Huddersfield, United Kingdom
     start: 2019-01-01
     end: 2021-03-01
 
   # --- SECTION 2: UNIVERSITY SERVICES ---
-  - role: Academic Leadership & Service
+  - role: University Services
+    org: Academic Leadership & Service
     summary: |
       **University of Sheffield**
       * Deputy Chair (University of Sheffield) in N8 Operations and Supply Chain Management Research Seminar Series (Research partnership of the eight most research-intensive Universities in the North of England - https://www.n8research.org.uk/)
@@ -86,7 +89,8 @@ experience:
 
   # --- SECTION 3: TEACHING EXPERIENCE (TAUGHT MODULES) ---
   - role: Teaching Experience (Taught modules)
-      summary: |
+    org: Academic Teaching
+    summary: |
       **University of Sheffield**
       * MGT6150 Operations Management (MBA), 24-25, 25-26, Module Leader
       * MGT6085 Global Supply Chain Leadership (MSc Logistics and Supply Chain Management), 24-25, 25-26, Lecturer

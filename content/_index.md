@@ -59,7 +59,22 @@ sections:
       filters:
         folders:
           - publications
+        # Ensures working papers don't show up in the main published list
+        exclude_publication_type: 'manuscript'
       # Setting count to 0 displays all papers without a cutoff limit
+      count: 0
+    design:
+      view: citation
+
+  - block: collection
+    id: working-papers
+    content:
+      title: Working Papers
+      filters:
+        folders:
+          - publications
+        # Grabs only the papers tagged as manuscripts
+        publication_type: 'manuscript'
       count: 0
     design:
       view: citation

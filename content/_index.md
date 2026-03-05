@@ -6,8 +6,8 @@ date: 2022-10-24
 type: landing
 
 design:
-  # Default section spacing
-  spacing: '6rem'
+  # Default section spacing - REDUCED from 6rem to 3rem
+  spacing: '3rem'
 
 sections:
   - block: resume-biography-3
@@ -22,7 +22,7 @@ sections:
       headings:
         about: ''
         education: ''
-        interests: ''
+        Research interests: ''
     design:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
@@ -37,6 +37,10 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
+      
+      # Added to specifically reduce the space at the very top of the page [Top, Right, Bottom, Left]
+      spacing:
+        padding: ['2rem', 0, '2rem', 0]
 
   - block: markdown
     content:

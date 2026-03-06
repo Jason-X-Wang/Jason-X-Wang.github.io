@@ -49,6 +49,8 @@ sections:
       columns: '1'
       spacing:
         padding: ['1rem', 0, '1rem', 0]
+      animation:
+        name: fadeInUp
 
   - block: markdown
     content:
@@ -80,11 +82,13 @@ sections:
       columns: '1'
       spacing:
         padding: ['1rem', 0, '1rem', 0]
+      animation:
+        name: fadeInUp
 
   - block: collection
     id: papers
     content:
-      title: Peer-Reviewed Publications
+      title: '📄 Peer-Reviewed Publications'
       filters:
         folders:
           - publications
@@ -95,11 +99,13 @@ sections:
       view: citation
       spacing:
         padding: ['1rem', 0, '1rem', 0]
+      animation:
+        name: fadeInUp
 
   - block: collection
     id: working-papers
     content:
-      title: Working Papers
+      title: '✍️ Working Papers'
       filters:
         folders:
           - publications
@@ -110,11 +116,13 @@ sections:
       view: citation
       spacing:
         padding: ['1rem', 0, '1rem', 0]
+      animation:
+        name: fadeInUp
 
   - block: collection
     id: book-chapters
     content:
-      title: Book Chapters
+      title: '📖 Book Chapters'
       filters:
         folders:
           - publications
@@ -125,11 +133,13 @@ sections:
       view: citation
       spacing:
         padding: ['1rem', 0, '1rem', 0]
+      animation:
+        name: fadeInUp
   
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: '🎤 Recent & Upcoming Talks'
       filters:
         folders:
           - events
@@ -137,11 +147,13 @@ sections:
       view: card
       spacing:
         padding: ['1rem', 0, '1rem', 0]
+      animation:
+        name: fadeInUp
 
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: '📰 Recent News'
       subtitle: ''
       text: ''
       page_type: blog
@@ -160,4 +172,6 @@ sections:
       view: card
       spacing:
         padding: ['1rem', 0, 0, 0]
+      animation:
+        name: fadeInUp
 ---

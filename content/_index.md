@@ -65,7 +65,7 @@ sections:
       spacing:
         padding: ['1rem', 0, '1rem', 0]
 
-     - block: collection
+  - block: collection
     id: working-papers
     content:
       title: Working Papers
@@ -94,7 +94,7 @@ sections:
       view: citation
       spacing:
         padding: ['1rem', 0, '1rem', 0]
-
+  
   - block: collection
     id: talks
     content:

@@ -65,7 +65,7 @@ sections:
       spacing:
         padding: ['1rem', 0, '1rem', 0]
 
-  - block: collection
+     - block: collection
     id: working-papers
     content:
       title: Working Papers
@@ -80,7 +80,7 @@ sections:
       spacing:
         padding: ['1rem', 0, '1rem', 0]
 
-     - block: collection
+  - block: collection
     id: book-chapters
     content:
       title: Book Chapters

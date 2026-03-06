@@ -53,11 +53,12 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Publications
+      title: Peer-Reviewed Publications
       filters:
         folders:
           - publications
-        exclude_publication_type: 'manuscript'
+        # This ensures ONLY journal articles show up here
+        publication_type: 'article-journal'
       count: 0
     design:
       view: citation
@@ -71,7 +72,23 @@ sections:
       filters:
         folders:
           - publications
+        # Grabs only the papers tagged as manuscripts
         publication_type: 'manuscript'
+      count: 0
+    design:
+      view: citation
+      spacing:
+        padding: ['1rem', 0, '1rem', 0]
+
+     - block: collection
+    id: book-chapters
+    content:
+      title: Book Chapters
+      filters:
+        folders:
+          - publications
+        # This creates the dedicated Book Chapters section
+        publication_type: 'chapter'
       count: 0
     design:
       view: citation

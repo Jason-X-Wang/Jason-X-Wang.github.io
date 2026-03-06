@@ -50,7 +50,7 @@ sections:
       spacing:
         padding: ['1rem', 0, '1rem', 0]
 
- - block: markdown
+  - block: markdown
     content:
       title: '🤝 Professional Services'
       subtitle: ''
@@ -81,7 +81,7 @@ sections:
       spacing:
         padding: ['1rem', 0, '1rem', 0]
 
-    - block: collection
+  - block: collection
     id: papers
     content:
       title: Peer-Reviewed Publications

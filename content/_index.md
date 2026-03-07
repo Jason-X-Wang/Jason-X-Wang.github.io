@@ -30,7 +30,6 @@ sections:
       avatar:
         size: medium
         shape: circle
-      # Force minimal padding at the very top block
       spacing:
         padding: [0, 0, '1rem', 0]
 
@@ -52,9 +51,118 @@ sections:
       animation:
         name: fadeInUp
 
-  # --- HIGH-VISIBILITY FEATURED NEWS SECTION ---
   - block: collection
     id: news
     content:
-      # Sheffield Blue background (#003057) with Gold border highlight
-      title: '<span style="background-color: #003057; color: white; padding: 6px 15px; border-radius: 4px; border-left: 6px solid #ffcc00; font-weight: bold; font-family: sans
+      title: '<span style="background-color: #003057; color: white; padding: 6px 15px; border-radius: 4px; border-left: 6px solid #ffcc00; font-weight: bold; font-family: sans-serif;">🔥 LATEST UPDATES & NEWS</span>'
+      subtitle: 'Key announcements and academic activities'
+      page_type: blog
+      count: 1
+      filters:
+        author: ''
+        category: ''
+        tag: ''
+        exclude_featured: false
+    design:
+      view: showcase
+      columns: '1'
+      spacing:
+        padding: ['2.5rem', 0, '2.5rem', 0]
+      animation:
+        name: bounceIn
+
+  - block: markdown
+    content:
+      title: '🤝 Professional Services'
+      subtitle: ''
+      text: |-
+        **Editorial Board**
+        * Department Editor (Operations Research, Information and Technology) [Cogent Business & Management](https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=oabm20) (JIF: 3.0, ABS: 1, Taylor & Francis), 2022-present
+        * Editorial Review Board Member, [Journal of Supply Chain Management](https://onlinelibrary.wiley.com/page/journal/1745493x/homepage/editorialboard.html) (JIF: 10.6, ABS: 4, ABDC: A, Wiley), 2021-present
+        * Editorial Review Board Member, [IEEE Transactions on Engineering Management](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10356850) (JIF: 5.2, ABS: 3, ABDC: A, IEEE Xplore), 2025-present
+
+        **Special Issue Guest Editor**
+        * “[Logistics and Supply Chain Management with Web 3.0 and Metaverse Technologies](https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review/about/call-for-papers),” Transportation Research Part E: Logistics and Transportation Review (JIF: 8.8, ABDC: A\*, ABS: 3)
+
+        **Conference contributions**
+        * 4th Operations and Supply Chain Management Symposium: Emerging Technologies and the Industry 5.0, 2026, Sheffield, UK | Organizing committee chair
+        * [IEEE TEMSON Global 2025 Conference](https://2025.ieee-temscon-global.org/about/international-program-committee), San Diego, CA, USA (IEEE Technology and Engineering Management Society) | Program committee member
+        * 2025 Chartered Institute of Logistics & Transport (CILT) annual Logistics Research Network Conference (LRN) | LRN conference review panel member
+
+        **Journal Reviewers ([Publon/Web of Science](https://www.webofscience.com/wos/author/record/AAX-7454-2020))**
+        * Production and Operations Management
+        * Journal of Operations Management
+        * Journal of Supply Chain Management
+        * International Journal of Operations and Production Management
+        * Transportation Research Part E: Logistics and Transportation Review
+        * IEEE: Transactions on Engineering Management
+        * International Journal of Production Research
+    design:
+      columns: '1'
+      spacing:
+        padding: ['1.5rem', 0, '1.5rem', 0]
+      animation:
+        name: fadeInUp
+
+  - block: collection
+    id: papers
+    content:
+      title: '📄 Peer-Reviewed Publications'
+      filters:
+        folders:
+          - publications
+        publication_type: 'article-journal'
+      count: 0
+    design:
+      view: citation
+      spacing:
+        padding: ['1.5rem', 0, '1.5rem', 0]
+      animation:
+        name: fadeInUp
+
+  - block: collection
+    id: working-papers
+    content:
+      title: '✍️ Working Papers'
+      filters:
+        folders:
+          - publications
+        publication_type: 'manuscript'
+      count: 0
+    design:
+      view: citation
+      spacing:
+        padding: ['1.5rem', 0, '1.5rem', 0]
+      animation:
+        name: fadeInUp
+
+  - block: collection
+    id: book-chapters
+    content:
+      title: '📖 Book Chapters'
+      filters:
+        folders:
+          - publications
+        publication_type: 'chapter'
+      count: 0
+    design:
+      view: citation
+      spacing:
+        padding: ['1.5rem', 0, '1.5rem', 0]
+      animation:
+        name: fadeInUp
+  
+  - block: collection
+    id: talks
+    content:
+      title: '🎤 Conference Presentations & Talks'
+      filters:
+        folders:
+          - events
+    design:
+      view: card
+      spacing:
+        padding: ['1rem', 0, '1rem', 0]
+      animation:
+        name: fadeInUp
+---

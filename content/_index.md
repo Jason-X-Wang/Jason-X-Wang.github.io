@@ -30,6 +30,7 @@ sections:
       avatar:
         size: medium
         shape: circle
+      # Force minimal padding at the very top block
       spacing:
         padding: [0, 0, '1rem', 0]
 
@@ -51,20 +52,22 @@ sections:
       animation:
         name: fadeInUp
 
+  # --- HIGH-VISIBILITY FEATURED NEWS SECTION (TWO ITEMS) ---
   - block: collection
     id: news
     content:
+      # Sheffield Blue background (#003057) with Gold border highlight
       title: '<span style="background-color: #003057; color: white; padding: 6px 15px; border-radius: 4px; border-left: 6px solid #ffcc00; font-weight: bold; font-family: sans-serif;">🔥 LATEST UPDATES & NEWS</span>'
       subtitle: 'Key announcements and academic activities'
       page_type: blog
-      count: 1
+      count: 2 # Now configured to show the two most recent posts
       filters:
         author: ''
         category: ''
         tag: ''
         exclude_featured: false
     design:
-      view: showcase
+      view: showcase # Maintains the professional, large featured layout
       columns: '1'
       spacing:
         padding: ['2.5rem', 0, '2.5rem', 0]
@@ -103,66 +106,3 @@ sections:
         padding: ['1.5rem', 0, '1.5rem', 0]
       animation:
         name: fadeInUp
-
-  - block: collection
-    id: papers
-    content:
-      title: '📄 Peer-Reviewed Publications'
-      filters:
-        folders:
-          - publications
-        publication_type: 'article-journal'
-      count: 0
-    design:
-      view: citation
-      spacing:
-        padding: ['1.5rem', 0, '1.5rem', 0]
-      animation:
-        name: fadeInUp
-
-  - block: collection
-    id: working-papers
-    content:
-      title: '✍️ Working Papers'
-      filters:
-        folders:
-          - publications
-        publication_type: 'manuscript'
-      count: 0
-    design:
-      view: citation
-      spacing:
-        padding: ['1.5rem', 0, '1.5rem', 0]
-      animation:
-        name: fadeInUp
-
-  - block: collection
-    id: book-chapters
-    content:
-      title: '📖 Book Chapters'
-      filters:
-        folders:
-          - publications
-        publication_type: 'chapter'
-      count: 0
-    design:
-      view: citation
-      spacing:
-        padding: ['1.5rem', 0, '1.5rem', 0]
-      animation:
-        name: fadeInUp
-  
-  - block: collection
-    id: talks
-    content:
-      title: '🎤 Conference Presentations & Talks'
-      filters:
-        folders:
-          - events
-    design:
-      view: card
-      spacing:
-        padding: ['1rem', 0, '1rem', 0]
-      animation:
-        name: fadeInUp
----

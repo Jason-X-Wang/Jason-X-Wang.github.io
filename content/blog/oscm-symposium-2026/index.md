@@ -13,7 +13,7 @@ authors:
 
 I am thrilled to announce that the University of Sheffield Management School and the Department of Operations Management and Decision Science are delighted to host the **4th Operations and Supply Chain Management Symposium**.
 
-I am deeply honored to serve as the Organizing Committee Chair for this prestigious event. I will be working alongside our esteemed Conference Chairs, Prof. Francisco Saldanha-da-Gama and Prof. Jason Choi, as well as our Organizing Committee Coordinator, Prof. Andrea Genovese.
+I am deeply honored to serve as the Organizing Committee Chair for this prestigious event. I will be working alongside our esteemed Conference Chairs, Prof. Francisco Saldanha-da-Gama and Prof. Jason Choi, as well as our Organizing Committee members, Dr. Merve Keskin and Dr. Mahnaz Hosseinzadeh. 
 
 Building upon the tremendous success of previous symposiums held at the University of Liverpool, the University of Surrey, and the University of Southampton, this year's edition focuses specifically on the theme: **Emerging Technologies and Industry 5.0**. The event will take place on **September 1st and 2nd, 2026**.
 
@@ -24,4 +24,4 @@ We have an incredible lineup planned for the two days to foster dialogue and res
 
 We look forward to welcoming leading scholars, journal editors, and industry practitioners to Sheffield!
 
-For more details and to register for the event, please visit the official conference page: [4th Operations and Supply Chain Management Symposium](#) *(Note: replace the '#' in the brackets with the actual URL link to the event page).*
+For more details and to register for the event, please visit the official conference page: [4th Operations and Supply Chain Management Symposium]([#](https://sheffield.ac.uk/management/4th-operations-and-supply-chain-management-symposium)) 

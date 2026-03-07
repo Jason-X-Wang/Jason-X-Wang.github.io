@@ -1,26 +1,25 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ''
-summary: ''
+title: ""
+summary: ""
 date: 2022-10-24
 type: landing
 
 design:
-  # Eliminate the global default spacing entirely
-  spacing: '0'
+  spacing: "0"
 
 sections:
   - block: resume-biography-3
     content:
       username: me
-      text: ''
+      text: ""
       button:
         text: Download CV
         url: uploads/resume.pdf
       headings:
-        about: ''
-        education: ''
-        Research interests: ''
+        about: ""
+        education: ""
+        Research interests: ""
     design:
       background:
         gradient_mesh:
@@ -30,14 +29,13 @@ sections:
       avatar:
         size: medium
         shape: circle
-      # Force minimal padding at the very top block
       spacing:
-        padding: [0, 0, '1rem', 0]
+        padding: [0, 0, "1rem", 0]
 
   - block: markdown
     content:
-      title: '📚 My Research & Background'
-      subtitle: ''
+      title: "📚 My Research & Background"
+      subtitle: ""
       text: |-
         Jason’s core research focuses on two broad themes:
 
@@ -46,38 +44,36 @@ sections:
 
         Jason also works on manufacturing and sustainability innovation in the construction sector, such as prefabricated construction, to develop sector-specific sustainability strategies.
     design:
-      columns: '1'
+      columns: "1"
       spacing:
-        padding: ['1rem', 0, '1rem', 0]
+        padding: ["1rem", 0, "1rem", 0]
       animation:
         name: fadeInUp
 
-  # --- HIGH-VISIBILITY FEATURED NEWS SECTION (TWO ITEMS) ---
   - block: collection
     id: news
     content:
-      # Sheffield Blue background (#003057) with Gold border highlight
-      title: '<span style="background-color: #003057; color: white; padding: 6px 15px; border-radius: 4px; border-left: 6px solid #ffcc00; font-weight: bold; font-family: sans-serif;">🔥 LATEST UPDATES & NEWS</span>'
-      subtitle: 'Key announcements and academic activities'
+      title: '<span style="background-color:#003057;color:white;padding:6px 12px;border-radius:4px;border-left:6px solid #ffcc00;">🔥 LATEST UPDATES & NEWS</span>'
+      subtitle: "Recent announcements and academic activities"
       page_type: blog
-      count: 2 # Now configured to show the two most recent posts
+      count: 2
       filters:
-        author: ''
-        category: ''
-        tag: ''
+        author: ""
+        category: ""
+        tag: ""
         exclude_featured: false
     design:
-      view: showcase # Maintains the professional, large featured layout
-      columns: '1'
+      view: showcase
+      columns: "1"
       spacing:
-        padding: ['2.5rem', 0, '2.5rem', 0]
+        padding: ["2.5rem", 0, "2.5rem", 0]
       animation:
         name: bounceIn
 
   - block: markdown
     content:
-      title: '🤝 Professional Services'
-      subtitle: ''
+      title: "🤝 Professional Services"
+      subtitle: ""
       text: |-
         **Editorial Board**
         * Department Editor (Operations Research, Information and Technology) [Cogent Business & Management](https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=oabm20) (JIF: 3.0, ABS: 1, Taylor & Francis), 2022-present
@@ -101,8 +97,71 @@ sections:
         * IEEE: Transactions on Engineering Management
         * International Journal of Production Research
     design:
-      columns: '1'
+      columns: "1"
       spacing:
-        padding: ['1.5rem', 0, '1.5rem', 0]
+        padding: ["1.5rem", 0, "1.5rem", 0]
       animation:
         name: fadeInUp
+
+  - block: collection
+    id: papers
+    content:
+      title: "📄 Peer-Reviewed Publications"
+      filters:
+        folders:
+          - publications
+        publication_type: "article-journal"
+      count: 0
+    design:
+      view: citation
+      spacing:
+        padding: ["1.5rem", 0, "1.5rem", 0]
+      animation:
+        name: fadeInUp
+
+  - block: collection
+    id: working-papers
+    content:
+      title: "✍️ Working Papers"
+      filters:
+        folders:
+          - publications
+        publication_type: "manuscript"
+      count: 0
+    design:
+      view: citation
+      spacing:
+        padding: ["1.5rem", 0, "1.5rem", 0]
+      animation:
+        name: fadeInUp
+
+  - block: collection
+    id: book-chapters
+    content:
+      title: "📖 Book Chapters"
+      filters:
+        folders:
+          - publications
+        publication_type: "chapter"
+      count: 0
+    design:
+      view: citation
+      spacing:
+        padding: ["1.5rem", 0, "1.5rem", 0]
+      animation:
+        name: fadeInUp
+
+  - block: collection
+    id: talks
+    content:
+      title: "🎤 Conference Presentations & Talks"
+      filters:
+        folders:
+          - events
+    design:
+      view: card
+      spacing:
+        padding: ["1.5rem", 0, "1.5rem", 0]
+      animation:
+        name: fadeInUp
+---

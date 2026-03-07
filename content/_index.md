@@ -30,7 +30,6 @@ sections:
       avatar:
         size: medium
         shape: circle
-      # Force minimal padding at the very top block
       spacing:
         padding: [0, 0, '1rem', 0]
 
@@ -52,26 +51,23 @@ sections:
       animation:
         name: fadeInUp
 
-  # --- HIGHLIGHTED NEWS SECTION: MOVED TO TOP ---
+  # --- OPTION 2: THE FEATURED HIGHLIGHT VIEW ---
   - block: collection
     id: news
     content:
-      title: '🔥 Latest Updates & News'
-      subtitle: 'Recent announcements and academic activities'
+      title: '🔥 Featured News & Updates'
+      subtitle: ''
       page_type: blog
-      count: 3 # Shows the top 3 items in a clean row
+      count: 1 # Focuses purely on your BIGGEST current news item
       filters:
-        author: ''
-        category: ''
-        tag: ''
         exclude_featured: false
     design:
-      view: card # Professional card format
-      columns: '3' # Puts news side-by-side like a dashboard
+      view: showcase # This creates a larger, more prominent "Featured" look
+      columns: '1'
       spacing:
         padding: ['2rem', 0, '2rem', 0]
       animation:
-        name: zoomIn # Makes the news "pop" on scroll
+        name: zoomIn
 
   - block: markdown
     content:

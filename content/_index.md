@@ -52,6 +52,27 @@ sections:
       animation:
         name: fadeInUp
 
+  # --- HIGHLIGHTED NEWS SECTION: MOVED TO TOP ---
+  - block: collection
+    id: news
+    content:
+      title: '🔥 Latest Updates & News'
+      subtitle: 'Recent announcements and academic activities'
+      page_type: blog
+      count: 3 # Shows the top 3 items in a clean row
+      filters:
+        author: ''
+        category: ''
+        tag: ''
+        exclude_featured: false
+    design:
+      view: card # Professional card format
+      columns: '3' # Puts news side-by-side like a dashboard
+      spacing:
+        padding: ['2rem', 0, '2rem', 0]
+      animation:
+        name: zoomIn # Makes the news "pop" on scroll
+
   - block: markdown
     content:
       title: '🤝 Professional Services'
@@ -92,7 +113,6 @@ sections:
       filters:
         folders:
           - publications
-        # This ensures ONLY journal articles show up here
         publication_type: 'article-journal'
       count: 0
     design:
@@ -109,7 +129,6 @@ sections:
       filters:
         folders:
           - publications
-        # Grabs only the papers tagged as manuscripts
         publication_type: 'manuscript'
       count: 0
     design:
@@ -126,7 +145,6 @@ sections:
       filters:
         folders:
           - publications
-        # This creates the dedicated Book Chapters section
         publication_type: 'chapter'
       count: 0
     design:
@@ -139,7 +157,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: '🎤 Recent & Upcoming Talks'
+      title: '🎤 Conference Presentations & Talks'
       filters:
         folders:
           - events
@@ -147,31 +165,6 @@ sections:
       view: card
       spacing:
         padding: ['1rem', 0, '1rem', 0]
-      animation:
-        name: fadeInUp
-
-  - block: collection
-    id: news
-    content:
-      title: '📰 Recent News'
-      subtitle: ''
-      text: ''
-      page_type: blog
-      count: 10
-      filters:
-        author: ''
-        category: ''
-        tag: ''
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ''
-      offset: 0
-      order: desc
-    design:
-      view: card
-      spacing:
-        padding: ['1rem', 0, 0, 0]
       animation:
         name: fadeInUp
 ---

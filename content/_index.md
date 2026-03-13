@@ -79,6 +79,7 @@ sections:
         * Department Editor (Operations Research, Information and Technology) [Cogent Business & Management](https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=oabm20) (JIF: 3.0, ABS: 1, Taylor & Francis), 2022-present
         * Editorial Review Board Member, [Journal of Supply Chain Management](https://onlinelibrary.wiley.com/page/journal/1745493x/homepage/editorialboard.html) (JIF: 10.6, ABS: 4, ABDC: A, Wiley), 2021-present
         * Editorial Review Board Member, [IEEE Transactions on Engineering Management](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10356850) (JIF: 5.2, ABS: 3, ABDC: A, IEEE Xplore), 2025-present
+        * Editorial Review Board Member, [International Journal of Operations and Supply Chain Management](https://www.emeraldgrouppublishing.com/journal/ijopm) (JIF: 7.4, ABS: 4, ABDC: A, Emerald), 2026-present
 
         **Special Issue Guest Editor**
         * “[Logistics and Supply Chain Management with Web 3.0 and Metaverse Technologies](https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review/about/call-for-papers),” Transportation Research Part E: Logistics and Transportation Review (JIF: 8.8, ABDC: A\*, ABS: 3)

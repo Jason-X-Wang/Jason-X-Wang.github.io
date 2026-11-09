@@ -2,7 +2,7 @@
 # Leave the homepage title empty to use the site title
 title: ""
 summary: ""
-date: 2022-10-24
+date: 2026-11-06
 type: landing
 
 design:
@@ -15,7 +15,7 @@ sections:
       text: ""
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/CV_Jason_X_Wang.pdf
       headings:
         about: ""
         education: ""
@@ -56,7 +56,7 @@ sections:
       title: '<span style="background-color:#003057;color:white;padding:6px 12px;border-radius:4px;border-left:6px solid #ffcc00;">🔥 LATEST UPDATES & NEWS</span>'
       subtitle: "Recent announcements and academic activities"
       page_type: blog
-      count: 2
+      count: 3
       filters:
         author: ""
         category: ""
@@ -76,18 +76,23 @@ sections:
       subtitle: ""
       text: |-
         **Editorial Board**
-        * Department Editor (Operations Research, Information and Technology) [Cogent Business & Management](https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=oabm20) (JIF: 3.0, ABS: 1, Taylor & Francis), 2022-present
-        * Editorial Review Board Member, [Journal of Supply Chain Management](https://onlinelibrary.wiley.com/page/journal/1745493x/homepage/editorialboard.html) (JIF: 10.6, ABS: 4, ABDC: A, Wiley), 2021-present
-        * Editorial Review Board Member, [IEEE Transactions on Engineering Management](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10356850) (JIF: 5.2, ABS: 3, ABDC: A, IEEE Xplore), 2025-present
-        * Editorial Review Board Member, [International Journal of Operations and Supply Chain Management](https://www.emeraldgrouppublishing.com/journal/ijopm) (JIF: 7.4, ABS: 4, ABDC: A, Emerald), 2026-present
+        * Department Editor (Operations Research, Information and Technology) [Cogent Business & Management](https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=oabm20) (JIF: 3.0, ABS: 1, Taylor & Francis), 2022–present
+        * Editorial Review Board Member, [Journal of Supply Chain Management](https://onlinelibrary.wiley.com/page/journal/1745493x/homepage/editorialboard.html) (JIF: 10.6, ABS: 4, ABDC: A, Wiley), 2021–present
+        * Editorial Review Board Member, [IEEE Transactions on Engineering Management](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10356850) (JIF: 4.6, ABS: 3, ABDC: A, IEEE Xplore), 2025–present
+        * Editorial Review Board Member, [International Journal of Operations & Production Management](https://www.emeraldgrouppublishing.com/journal/ijopm) (JIF: 7.4, ABS: 4, ABDC: A, Emerald), 2026–present
+        * Editorial Board Member, *Operations Management* (MDPI), 2026–present
 
         **Special Issue Guest Editor**
-        * “[Logistics and Supply Chain Management with Web 3.0 and Metaverse Technologies](https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review/about/call-for-papers),” Transportation Research Part E: Logistics and Transportation Review (JIF: 8.8, ABDC: A\*, ABS: 3)
+        * “[Editorial: Web 3.0 and Metaverse technologies in logistics and supply chain management](https://doi.org/10.1016/j.tre.2026.105037),” *Transportation Research Part E: Logistics and Transportation Review* (JIF: 9.3, ABDC: A\*, ABS: 3)
 
-        **Conference contributions**
-        * 4th Operations and Supply Chain Management Symposium: Emerging Technologies and the Industry 5.0, 2026, Sheffield, UK | Organizing committee chair
-        * [IEEE TEMSON Global 2025 Conference](https://2025.ieee-temscon-global.org/about/international-program-committee), San Diego, CA, USA (IEEE Technology and Engineering Management Society) | Program committee member
-        * 2025 Chartered Institute of Logistics & Transport (CILT) annual Logistics Research Network Conference (LRN) | LRN conference review panel member
+        **Conference Contributions**
+        * [2027 International Journal of Operations & Production Management (IJOPM) Workshop: Developing the Next Generation of OSCM Scholarship](https://ijopmw27.scimeeting.cn/en/web/index/39493_3502593), 4th–5th January 2027, Hangzhou, China (Hosted by School of Management, Zhejiang University) | Organizing Committee Member, Mentoring Session Mentor & Parallel Session Chair
+        * 4th Operations and Supply Chain Management Symposium: Emerging Technologies and the Industry 5.0, 1st–2nd September 2026, Sheffield, UK (Hosted by Sheffield University Management School) | Organizing Committee Chair
+        * [IEEE TEMSCON Global 2025 Conference](https://2025.ieee-temscon-global.org/about/international-program-committee), 4th–7th August 2025, San Diego, CA, USA (IEEE Technology and Engineering Management Society) | Program Committee Member
+        * 2025 Chartered Institute of Logistics & Transport (CILT) annual Logistics Research Network Conference (LRN) | LRN Conference Review Panel Member
+
+        **Grant/Funding Review**
+        * Invited Expert Assessor (November 2026), the Dutch Research Council (NWO) – Invited to assess grant applications for the ‘KIC Demand-driven Research By Consortia S – 2026’ call
 
         **Journal Reviewers ([Publon/Web of Science](https://www.webofscience.com/wos/author/record/AAX-7454-2020))**
         * Production and Operations Management
@@ -95,7 +100,7 @@ sections:
         * Journal of Supply Chain Management
         * International Journal of Operations and Production Management
         * Transportation Research Part E: Logistics and Transportation Review
-        * IEEE: Transactions on Engineering Management
+        * IEEE Transactions on Engineering Management
         * International Journal of Production Research
     design:
       columns: "1"
@@ -144,6 +149,22 @@ sections:
         folders:
           - publications
         publication_type: "chapter"
+      count: 0
+    design:
+      view: citation
+      spacing:
+        padding: ["1.5rem", 0, "1.5rem", 0]
+      animation:
+        name: fadeInUp
+
+  - block: collection
+    id: conference-proceedings
+    content:
+      title: "📑 Conference Proceedings"
+      filters:
+        folders:
+          - publications
+        publication_type: "paper-conference"
       count: 0
     design:
       view: citation

@@ -1,13 +1,13 @@
 ---
-title: "The Supply Chain Perspective of Manufacturing Innovation: An Off-site Construction Context"
+title: "Untangling the Productivity Puzzle in Offsite Construction Supply Chains: A Theory of Swift, Even Flow Perspective"
 authors:
-  - Jason X. Wang
+  - me
   - J. Ma
   - A. Zhang
-  - C. L. Wood
+  - L. C. Wood
   - M. Abualqumboz
 date: "2026-01-01T00:00:00Z"
 publication_types: ["manuscript"]
-publication: "*(In preparation)* IEEE Transactions on Engineering Management. | ABS: 3, ABDC: A, JIF: 5.2"
+publication: "*(Under revision)* *International Journal of Operations & Production Management*. | ABS: 4, ABDC: A, JIF: 7.4"
 abstract: ""
 ---

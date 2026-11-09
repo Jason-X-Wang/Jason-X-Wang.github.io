@@ -1,11 +1,21 @@
 ---
-title: "The impact of blockchain technology on the nature of trust: A pharmaceutical supply chain perspective"
+title: "The impact of blockchain technology on supply chain trust formation and development: The case of the pharmaceutical network"
 authors:
   - B. Dehe
-  - Jason X. Wang
+  - me
   - S. Heath
 date: "2026-01-01T00:00:00Z"
-publication_types: ["manuscript"]
-publication: "*(Under review [Second Round])* Journal of Business Research. | ABS: 3, ABDC: A, JIF: 10.5"
+doi: "10.1016/j.jbusres.2026.116473"
+publication_types: ["article-journal"]
+publication: "*Journal of Business Research*, 217, 116473"
 abstract: ""
+summary: ""
+tags:
+  - Blockchain Technology
+  - Supply Chain Trust
+  - Pharmaceutical Supply Chain
+featured: true
+links:
+  - type: publisher
+    url: "https://doi.org/10.1016/j.jbusres.2026.116473"
 ---

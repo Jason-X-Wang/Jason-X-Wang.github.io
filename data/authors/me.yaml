@@ -7,18 +7,21 @@ name:
   family: Wang
 postnominals:
   - PhD
+  - MSc
+  - BSc
+  - FHEA
 status:
   icon: "🎓"
 role: Lecturer/Assistant Professor in Sustainable Supply Chain Management
 
 bio: |
- Dr. Jason X. Wang is a Lecturer/Assistant Professor of Sustainable Supply Chain Management at Sheffield University Management School. Previously, he worked at University of Huddersfield as MBA programme leader and Senior Lecturer of Operations and Supply Chain Management.
-  
-  Focusing on sustainable/circular supply chain management applied with carbon neutrality and blockchain, Jason's work has been published in leading international journals, including the International Journal of Operations and Production Management, Transportation Research Part E: Logistics and Transportation Review, and International Journal of Production Economics.
-  
-  Jason is the Editorial Review Board member of Journal of Supply Chain Management and IEEE Transactions on Engineering Management, Guest Editor of Transportation Research Part E: Logistics and Transportation Review, and Senior Editor (Operations Research, Information & Technology) in Cogent Business & Management.
-  
-  His work attracted attention from the industrial community, providing consultation to vehicle recovery service supply chain in New Zealand and the motorsport industry in UK.
+  Dr. Jason X. Wang is a Lecturer/Assistant Professor of Sustainable Supply Chain Management at Sheffield University Management School. Previously, he worked at the University of Huddersfield as MBA Programme Leader and Senior Lecturer in Operations and Supply Chain Management.
+
+  Focusing on sustainable/circular supply chain management applied with carbon neutrality and blockchain, Jason's work has been published in leading international journals, including the *International Journal of Operations & Production Management*, *Transportation Research Part E: Logistics and Transportation Review*, *Journal of Business Research*, *International Journal of Production Economics*, and *Business Strategy and the Environment*.
+
+  Jason serves on the Editorial Review Boards of the *Journal of Supply Chain Management*, *International Journal of Operations & Production Management*, and *IEEE Transactions on Engineering Management*, is an Editorial Board Member of *Operations Management* (MDPI), Guest Editor of *Transportation Research Part E: Logistics and Transportation Review*, and Department Editor (Operations Research, Information & Technology) for *Cogent Business & Management*.
+
+  His work has attracted strong attention from the industrial community, providing consultation to vehicle recovery service supply chains in New Zealand and the electric motorsport industry in the UK.
 
 affiliations:
   - name: University of Sheffield
@@ -51,54 +54,85 @@ experience:
     org: Academic Employment
     summary: |
       **University of Sheffield**
-      * Lecturer in Sustainable Supply Chain Management, Sheffield Management School (July 2024 – Present)
-      
+      * Lecturer in Sustainable Supply Chain Management, Sheffield Management School (2024–present)
+
       **University of Huddersfield, United Kingdom**
-      * MBA Program Leader (MBA/SLMDA), Huddersfield Business School (March 2021 – July 2024)
-      * Senior Lecturer in Operations and Supply Chain Management (March 2021 – July 2024)
-      * Lecturer in Operations and Supply Chain Management (January 2019 – March 2021)
+      * MBA Program Leader (MBA/SLMDA), Huddersfield Business School (2021–2024)
+      * Senior Lecturer in Operations and Supply Chain Management (2021–2024)
+      * Lecturer in Operations and Supply Chain Management (2019–2021)
+
   # --- SECTION 2: UNIVERSITY SERVICES ---
-  - role: University Services
+  - role: University Services & External Examining
     org: Academic Leadership & Service
     summary: |
       **University of Sheffield**
       * Deputy Chair (University of Sheffield) in N8 Operations and Supply Chain Management Research Seminar Series (Research partnership of the eight most research-intensive Universities in the North of England - https://www.n8research.org.uk/)
-      * MBA Selection Panelist, 2025-present, responsible for MBA recruitment activities, MBA candidates' interviews, and offers
-      * Academic Representative in MBA overseas recruitment, March-April 2025, April 2026, representing Sheffield University Management School in the ‘QS Discover MBA’ in Tokyo, Japan, and Taipei, Taiwan.
-
-      **University of Huddersfield**
-      * MBA Program Leader (Master of Business Administration/Senior Leader Master’s Degree Apprenticeship [SLMDA]), 2021-2024
-      * Committee Member in Huddersfield Business School Accreditation and Validation Panel (SAVP), 2020-2024
-      * PhD Coordinator in the Department of Accounting, Finance, Logistics and Economics, 2020-2024
-      * Coordinator in BA (Hons) Business with Supply Chain Management Professional, Chartered Manager Degree Apprenticeship (CMDA), 2021–2021
-      * Project Member (Mathematics route) in Partnership for Innovation of Exact Supporting Courses in Economics and Management Study Programmes (Funded by European Commission with Erasmus+ KA2 – Cooperation for Innovation and the Exchange of Good Practices, KA203 – Strategic Partnerships for Higher Education), 2021-2022
-      * Organizing Committee Member of Huddersfield Business School Research Conference 2020 and track chair in Emerging Economies and Globalization
-      * University Academic Integrity Officer, 2019-2024
-
-      **Northumbria University of Newcastle, Newcastle Business School**
-      * External Examiner for Operations, Supply Chain and Logistics Management Subject Group, Department of Marketing, Operations, and Systems (MOS), 2022–present
+      * MBA Selection Panelist, 2025–present, responsible for MBA recruitment activities, MBA candidates' interviews, and offers
+      * Academic Representative in MBA overseas recruitment, March–April 2025, April 2026, representing Sheffield University Management School in the ‘QS Discover MBA’ in Tokyo, Japan, and Taipei, Taiwan
 
       **University of Reading, Henley Business School**
-      * External Examiner for Executive MBA Global/Flexible/Levy Executive MBA (Overseeing modules of Managing Processes and Systems and Managing the Project-based Environment across multiple international teaching locations, including the UK, Nordics, South Africa, and Malta), 2026-present
+      * External Examiner for Executive MBA Global/Flexible/Levy Executive MBA (Overseeing modules of Managing Processes and Systems and Managing the Project-based Environment across multiple international teaching locations, including the UK, Nordics, South Africa, and Malta), 2026–present
+
+      **Northumbria University of Newcastle, Newcastle Business School**
+      * External Examiner for Operations, Supply Chain and Logistics Management Subject Group, Department of Marketing, Operations, and Systems (MOS), 2022–2026
+
+      **University of Huddersfield**
+      * MBA Program Leader (Master of Business Administration/Senior Leader Master’s Degree Apprenticeship [SLMDA]), 2021–2024
+      * Committee Member in Huddersfield Business School Accreditation and Validation Panel (SAVP), 2020–2024
+      * PhD Coordinator in the Department of Accounting, Finance, Logistics and Economics, 2020–2024
+      * Coordinator in BA (Hons) Business with Supply Chain Management Professional, Chartered Manager Degree Apprenticeship (CMDA), 2021
+      * Project Member (Mathematics route) in Partnership for Innovation of Exact Supporting Courses in Economics and Management Study Programmes (Funded by European Commission with Erasmus+ KA2 – Cooperation for Innovation and the Exchange of Good Practices, KA203 – Strategic Partnerships for Higher Education), 2021–2022
+      * Organizing Committee Member of Huddersfield Business School Research Conference 2020 and Track Chair in Emerging Economies and Globalization
+      * University Academic Integrity Officer, 2019–2024
 
   # --- SECTION 3: TEACHING EXPERIENCE (TAUGHT MODULES) ---
-  - role: Teaching Experience (Taught modules)
-    org: Academic Teaching
+  - role: Teaching Experience (Taught Modules)
+    org: Academic Teaching & Curriculum Leadership
     summary: |
       **University of Sheffield**
       * MGT6150 Operations Management (MBA), 24-25, 25-26, Module Leader
       * MGT6085 Global Supply Chain Leadership (MSc Logistics and Supply Chain Management), 24-25, 25-26, Lecturer
       * MGT6155 Supply Networks Management/Logistics System-Advanced Optimization (MSc Logistics and Supply Chain Management), 25-26, Lecturer
-      * New module development - Advanced Analytics: Econometrics and Forecasting (MSc Business Analytics), 26-27, Module Leader (responsible for new module development on learning outcomes, teaching & learning topics, teaching team management, delivery methods, assessment strategy)
+      * New module development/Module Leader – Advanced Analytics: Econometrics and Forecasting (MSc Business Analytics), 26-27 (responsible for new module development on learning outcomes, teaching & learning topics, teaching team management, delivery methods/materials, and assessment strategy)
+      * New module development/Module Leader – Supply Chain Networks - Strategy and Operations (MBA), 27-28 (responsible for new module development on learning outcomes, teaching & learning topics, teaching team management, delivery methods/materials, assessment strategy, and response/revision to review by Faculty Academic Programmes Office)
 
       **University of Huddersfield**
       * BMR1012 Operations Management (MSc Project Management and Operations Management), 19-20, 20-21, 21-22, 22-23, 23-24, Module Leader
       * BMT1070 Purchasing and Supply Chain Management (MSc Logistics and Supply Chain Management; MSc Sustainable Supply Chain Management, MSc Supply Chain Management with Humanitarian Challenges), 20-21, 21-22, 22-23, 23-24, Module Leader
       * BMS0069 Business Research Project (MBA), 21-22, 22-23, 23-24, Module Leader
       * BMS0071 Work-based Project (Senior Leader Master’s Degree Apprenticeship/MBA), 21-22, Module Leader
-      * BMT 1018 Dissertation (MSc Logistics and Supply Chain Management & MSc Operations and Supply Chain Management), 2018-19, Module Leader
+      * BMT1018 Dissertation (MSc Logistics and Supply Chain Management & MSc Operations and Supply Chain Management), 2018-19, Module Leader
       * BMR1003 Essential of Operations Management (MSc Operations and Supply Chain Management), 2018-19, Module Leader
       * Logistics and Supply Chain Management (MBA Aviation Management), 2019, 2020, 2021, 2022, 2023, Lecturer
       * BHT4024 Supply Chain Management – Work-based Development 3 (BA [Hons] Business with Supply Chain Management Professional [Apprenticeship Program]), 2020-21, Module Leader
       * BIT2018 Purchasing and Supply (BSc [Hons] Logistics & Supply Chain Management), 2018-19, Lecturer; 2019-20, 2020-21, Module Leader
       * BIR2001 Operations Management (BA [Hons] Business Studies), 2018-19, Lecturer; 2019-20, Module Leader
+
+  # --- SECTION 4: PHD SUPERVISION & EXAMINATION ---
+  - role: Ph.D. Supervision & Examination
+    org: Postgraduate Research Supervision
+    summary: |
+      **Ph.D. Supervision**
+      * **Retno Setiyawati** (Feb 2027–present, Primary Supervisor, University of Sheffield): *A Dynamic Capability-Based Model for Sustainable Supply Chain Transformation*
+      * **Peng Guan** (2022–2025, Co-supervisor, University of Otago): *The application of blockchain technology in port management*
+      * **Dina Tamazin** (2020–2024, Co-supervisor, University of Huddersfield): *Supply chain performance measurement model for oil refining companies: A sustainability perspective*
+
+      **MSc by Research Supervision**
+      * Primary Supervisor (2020–2023, University of Huddersfield): *Supply chain digitalization in the logistics industry*
+
+      **Ph.D./DBA Examination**
+      * **2023 (Ph.D.) – Philip Chilmon**, University of Huddersfield: *Sustainable Public Procurement - Conceptualization, Integration and Application*
+      * **2023 (DBA) – Svenja Köster**, Northumbria University: *Open innovation through supplier management - An approach to leverage the innovation potential for financial service companies*
+      * **2021 (Ph.D.) – Walid Mourhrib**, University of Huddersfield: *Adoption of the Physical Internet (PI): Key Implementation Challenges*
+      * **2020 (Ph.D.) – Emanuel Vincent Farrugia**, Manchester Metropolitan University: *An investigation of Malta’s evolution in global value chains and the implications for sustainable development*
+
+  # --- SECTION 5: GRANTS AND FUNDED PROJECTS ---
+  - role: Grants and Funded Projects
+    org: External & Institutional Research Funding
+    summary: |
+      * **2026 Co-investigator**, *“Research on Supply Chain Risk Propagation and Response Strategies for Critical Components in High-End Equipment Manufacturing”* (面向高端装备制造业关键零部件的供应链风险传染与响应策略研究), CNY 400,000 (~£43,000), National Natural Science Foundation of China (Grant No. 72571027), 1 Jan 2026 – 31 Dec 2029.
+      * **2023 Co-investigator**, *“Investigating management decision making and readiness in SMEs – how technology-driven development affects long term productivity growth of logistics operations,”* GBP £16,000, The Productivity Institute / Economic and Social Research Council (ESRC).
+      * **2022 Principal Investigator**, *“Sustainable Operations and Supply Chain Management,”* GBP £3,700, University of Huddersfield International Collaboration Research Projects with University of Otago, New Zealand.
+      * **2021 Co-investigator**, *“Cloud-based dynamic end-to-end control tower for supply chain, a decision support system,”* GBP £250,321, University of Huddersfield Area of Strategic Research Importance (ASRI) Project.
+      * **2020 Principal Investigator**, *“Sustainable innovation in manufacturing: A offsite construction perspective,”* GBP £3,000, Huddersfield Business School Research Fund.
+      * **2015 Co-investigator**, *“Managing persistent backlogs: Mitigating service failure,”* NZD 15,000 (~GBP £7,200), A1 Onehunga Towing Services Ltd and Auckland University of Technology, New Zealand.
